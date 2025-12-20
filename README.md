@@ -56,6 +56,7 @@ Resistance (RL) in ohm
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
 **CALCULATION**
+
 ![WhatsApp Image 2025-12-20 at 12 17 16_4e3d9853](https://github.com/user-attachments/assets/5ae1bf7f-64f6-4107-afe7-d9ca3d758ad8)
 
 **MARKS SPLITUP**
