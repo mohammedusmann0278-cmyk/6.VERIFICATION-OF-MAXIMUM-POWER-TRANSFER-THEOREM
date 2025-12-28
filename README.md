@@ -27,22 +27,27 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
-![WhatsApp Image 2025-12-20 at 12 17 15_98b5b4a1](https://github.com/user-attachments/assets/2204a7be-f04d-4577-94d7-affc97133fbf)
+<img width="353" height="222" alt="image" src="https://github.com/user-attachments/assets/baf35847-57f6-4553-a6ec-5ba2a2a9c9c8" />
+
 
 **MODEL GRAPH:**
 
-![WhatsApp Image 2025-12-20 at 12 17 15_93a8c5e8](https://github.com/user-attachments/assets/8f591bfa-43de-4e93-9c87-7aee10b8cac1)
+<img width="309" height="322" alt="image" src="https://github.com/user-attachments/assets/b559c148-7adb-4c29-8a4e-ff090597c0a1" />
+
 Resistance (RL) in ohm
 
 **TABULATION:**
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-![WhatsApp Image 2025-12-20 at 12 28 54_bea99ed2](https://github.com/user-attachments/assets/63083959-b7b7-4eac-8dc3-2b20a99ff7bc)
+
+<img width="387" height="304" alt="image" src="https://github.com/user-attachments/assets/b31e01dc-66ea-4c95-80d9-f06e8bda002d" />
+
 
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
 
-![WhatsApp Image 2025-12-20 at 12 29 56_c1070fc5](https://github.com/user-attachments/assets/b4cf84a1-21be-4795-a841-95a85e62b6b7)
+<img width="393" height="276" alt="image" src="https://github.com/user-attachments/assets/ca0ebdb5-b94b-46d1-bed4-11208633d7a3" />
+
 
 
 **PROCEDURE:**
@@ -57,7 +62,8 @@ Resistance (RL) in ohm
 
 **CALCULATION**
 
-![WhatsApp Image 2025-12-20 at 12 17 16_4e3d9853](https://github.com/user-attachments/assets/5ae1bf7f-64f6-4107-afe7-d9ca3d758ad8)
+<img width="360" height="492" alt="image" src="https://github.com/user-attachments/assets/5583c888-5934-4f42-a7d4-bb0c41c2a3f2" />
+
 
 **MARKS SPLITUP**
 
